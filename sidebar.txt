@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xxk:home|Door43 (xxk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xxk|d43-xxk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xxk/archive/master.zip|d43-xxk.zip]]
+
+**Recent Changes**
+{{changes>ns = xxk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xxk|Ethnologue data]]
+
